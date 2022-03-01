@@ -1,0 +1,135 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*Disculpa no entendí tu mensaje podrías ser más especifico \n",
+            "intenta escribir palabras claves ya que no estoy entrenado \n",
+            "lo suficiente para entender mensajes largos \n",
+            "*Muchas gracias por tu mensaje* \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "La conversación ha terminado \n",
+            "puedes volver cuando gustes \n",
+            "siempre estoy al pendiente para responder"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Hola!, Como te va? \n",
+            "Por el momento no está disponible *Juan Bautista*  \n",
+            "\n vuelve en unos minutos,  \n",
+            "Deja un *mensaje* o *audio* o escribe *audio* te envío una canción"
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Que te interesa ver?",
+            "message":"Recuerda que estoy bloqueado de mis redes sociales : )",
+            "footer":"@juanbhmx",
+            "buttons":[
+                {"body":"Facebook"},
+                {"body":"Instagram"},
+                {"body":"TikTok"},
+                {"body":"Todas mis redes"}
+            ]
+        }
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "Te paso links de mis redes \n",
+            "*Facebook* \n",
+            "*Instagram* \n",
+            "*TikTok* \n"
+        ],
+        "media":"https://media.giphy.com/media/PQL76jzmzUrz4UZnPV/giphy.gif",
+        "trigger":null
+    },
+    "STEP_2_1":{
+        "replyMessage":[
+            "https://www.facebook.com/Juan.Bautista.Brocoli \n"
+        ],
+        "media":"https://media.giphy.com/media/PQL76jzmzUrz4UZnPV/giphy.gif",
+        "trigger":null
+    },
+    "STEP_2_2":{
+        "replyMessage":[
+            "https://www.instagram.com/juanbhmx/ \n",
+            "No olvides seguirme! ❤"
+        ],
+        "media":"https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif",
+        "trigger":null
+    },
+    "STEP_2_3":{
+        "replyMessage":[
+            "https://www.tiktok.com/@juanbhmx \n",
+            "No olvides seguirme! 😮"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Puedes dejar un mensaje \n",
+            "llamada si es urgente"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Gracias a ti! \n"
+        ],
+        "media":"https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif",
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Trabajando... \n",
+            "Recuerda ayudar a los animales de la calle :( \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Hola!, recuerda adoptar gatitos \n",
+            "Por el momento no está disponible *Juan Bautista*  \n",
+            "\n vuelve en unos minutos  \n",
+            "Deja un *mensaje* o *audio* o escribe *audio* te envío una canción"
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Que te interesa ver?",
+            "message":"Recuerda que estoy bloqueado de mis redes sociales : )",
+            "footer":"@juanbhmx",
+            "buttons":[
+                {"body":"Facebook"},
+                {"body":"Instagram"},
+                {"body":"TikTok"},
+                {"body":"Todas mis redes"}
+            ]
+        }
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "Ya casi se conecta\n",
+            "visita su Twwiter \n",
+            "https://twitter.com/broco_land?t=uSfOxtsZatyvPze3cAlSIg&s=09"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "Espero te guste \n"
+        ],
+        "media":"nota-de-voz.mp3",
+        "trigger":null
+    }
+}

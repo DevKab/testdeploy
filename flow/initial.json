@@ -1,0 +1,81 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "que haces?",
+            "estas ocupado?",
+            "que cuentas?"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "Todas mis redes"],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "facebook"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "instagram"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "tiktok"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords":  [
+            "ok"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "gracias",
+            "vale gracias"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "que haces"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "estas ahi"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "Twitter"
+        ],
+        "key": "STEP_7"
+    },
+    {
+        "keywords":  [
+            "audio"
+        ],
+        "key": "STEP_8"
+    }
+]
